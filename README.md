@@ -2,7 +2,7 @@
 Regular old selves by day; committing nomstrosities by night
 
 # Current Decided on Tech Stack
-- [React](https://reactjs.org/) for frontend
+- [React](https://reactjs.org/)/[Nextjs](https://nextjs.org/) for frontend
 - [Node](https://nodejs.org/en/) for server/backend
 - [PostgreSQL](https://www.postgresql.org/) for database/If we have denormalized data, we can use [Firebase/Firestore](https://firebase.google.com/) or [MongoDB](https://www.mongodb.com/)
 - [gRPC](https://grpc.io/)/[GraphQL](https://graphql.org/) for API creation
@@ -10,6 +10,8 @@ Regular old selves by day; committing nomstrosities by night
 - [Slatejs](https://github.com/ianstormtaylor/slate) for text editor
 - For a REST API, we would use [Express](https://expressjs.com/). For GraphQL API, we would use [Apollo](https://www.apollographql.com/)
 - [React Mapbox GL](https://uber.github.io/react-map-gl/#/)
+- [Google Cloud Engine](https://cloud.google.com/compute/) for hosting
+- [Docker](https://www.docker.com/) for containerization
 
 # APIs
 - [Foursquare API](https://developer.foursquare.com/)

@@ -12,6 +12,8 @@ Regular old selves by day; committing nomstrosities by night
 - [React Mapbox GL](https://uber.github.io/react-map-gl/#/)
 - [Google Cloud Engine](https://cloud.google.com/compute/) for hosting
 - [Docker](https://www.docker.com/) for containerization
+- [Storybook](https://storybook.js.org/) for UI Component Library
+- [Jest](https://jestjs.io/) for Testing
 
 # APIs
 - [Foursquare API](https://developer.foursquare.com/)
